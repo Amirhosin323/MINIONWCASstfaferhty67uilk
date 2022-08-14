@@ -1,0 +1,4 @@
+name: MAIN
+version: '${project.version}'
+main: me.hunter.minion.MINION
+api-version: 1.18
